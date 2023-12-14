@@ -1,3 +1,3 @@
-module lesson-21
+module github.com/Nikittansk/go-lessons/lesson-21
 
 go 1.21
